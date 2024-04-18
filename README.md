@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
-<h3 align="center">A passionate mobile developer from Poland</h3>
+<h3 align="center">A passionate Mobile Developer from Poland</h3>
 
 - 💻 My journey into the world of coding began **when I built my first smartphone application (Household Account Book). Since then, I've been on an exciting quest to sharpen my skills and explore new technologies.**
 
