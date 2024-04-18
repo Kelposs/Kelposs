@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">A passionate Mobile Developer from Poland</h3>
 
+![Github](https://github.com/Kelposs/Kelposs/assets/105833652/b1672521-a8db-4083-8bd2-baa062763cef)
+
+
 - 💻 My journey into the world of coding began **when I built my first smartphone application (Household Account Book). Since then, I've been on an exciting quest to sharpen my skills and explore new technologies.**
 
 - 🤝 Let's connect and collaborate! **Feel free to explore my repositories, share your thoughts, or reach out for a chat. Together, let's create something amazing!**
